@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\bin\Debug\net6.0\ExerciceDictionnaire.exe
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\bin\Debug\net6.0\ExerciceDictionnaire.deps.json
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\bin\Debug\net6.0\ExerciceDictionnaire.runtimeconfig.json
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\bin\Debug\net6.0\ExerciceDictionnaire.dll
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\bin\Debug\net6.0\ExerciceDictionnaire.pdb
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ExerciceDictionnaire.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ExerciceDictionnaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ExerciceDictionnaire.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ExerciceDictionnaire.AssemblyInfo.cs
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ExerciceDictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ExerciceDictionnaire.dll
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\refint\ExerciceDictionnaire.dll
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ExerciceDictionnaire.pdb
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ExerciceDictionnaire.genruntimeconfig.cache
+C:\Users\angeb\source\repos\ExerciceDictionnaire\ExerciceDictionnaire\obj\Debug\net6.0\ref\ExerciceDictionnaire.dll

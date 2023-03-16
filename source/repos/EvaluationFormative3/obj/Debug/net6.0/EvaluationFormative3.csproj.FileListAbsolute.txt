@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\EvaluationFormative3.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\EvaluationFormative3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\EvaluationFormative3.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\EvaluationFormative3.AssemblyInfo.cs
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\EvaluationFormative3.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\EvaluationFormative3\bin\Debug\net6.0\EvaluationFormative3.exe
+C:\Users\angeb\source\repos\EvaluationFormative3\bin\Debug\net6.0\EvaluationFormative3.deps.json
+C:\Users\angeb\source\repos\EvaluationFormative3\bin\Debug\net6.0\EvaluationFormative3.runtimeconfig.json
+C:\Users\angeb\source\repos\EvaluationFormative3\bin\Debug\net6.0\EvaluationFormative3.dll
+C:\Users\angeb\source\repos\EvaluationFormative3\bin\Debug\net6.0\EvaluationFormative3.pdb
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\EvaluationFormative3.dll
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\refint\EvaluationFormative3.dll
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\EvaluationFormative3.pdb
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\EvaluationFormative3.genruntimeconfig.cache
+C:\Users\angeb\source\repos\EvaluationFormative3\obj\Debug\net6.0\ref\EvaluationFormative3.dll

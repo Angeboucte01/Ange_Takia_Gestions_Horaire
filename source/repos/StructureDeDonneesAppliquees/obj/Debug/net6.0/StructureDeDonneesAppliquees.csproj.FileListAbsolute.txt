@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\StructureDeDonneesAppliquees.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\StructureDeDonneesAppliquees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\StructureDeDonneesAppliquees.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\StructureDeDonneesAppliquees.AssemblyInfo.cs
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\StructureDeDonneesAppliquees.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\bin\Debug\net6.0\StructureDeDonneesAppliquees.exe
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\bin\Debug\net6.0\StructureDeDonneesAppliquees.deps.json
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\bin\Debug\net6.0\StructureDeDonneesAppliquees.runtimeconfig.json
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\bin\Debug\net6.0\StructureDeDonneesAppliquees.dll
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\bin\Debug\net6.0\StructureDeDonneesAppliquees.pdb
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\StructureDeDonneesAppliquees.dll
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\refint\StructureDeDonneesAppliquees.dll
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\StructureDeDonneesAppliquees.pdb
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\StructureDeDonneesAppliquees.genruntimeconfig.cache
+C:\Users\angeb\source\repos\StructureDeDonneesAppliquees\obj\Debug\net6.0\ref\StructureDeDonneesAppliquees.dll

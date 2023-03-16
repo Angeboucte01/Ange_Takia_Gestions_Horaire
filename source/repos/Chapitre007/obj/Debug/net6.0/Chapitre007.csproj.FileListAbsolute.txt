@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\Chapitre007\bin\Debug\net6.0\Chapitre007.exe
+C:\Users\angeb\source\repos\Chapitre007\bin\Debug\net6.0\Chapitre007.deps.json
+C:\Users\angeb\source\repos\Chapitre007\bin\Debug\net6.0\Chapitre007.runtimeconfig.json
+C:\Users\angeb\source\repos\Chapitre007\bin\Debug\net6.0\Chapitre007.dll
+C:\Users\angeb\source\repos\Chapitre007\bin\Debug\net6.0\ref\Chapitre007.dll
+C:\Users\angeb\source\repos\Chapitre007\bin\Debug\net6.0\Chapitre007.pdb
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\Chapitre007.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\Chapitre007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\Chapitre007.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\Chapitre007.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\Chapitre007.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\Chapitre007.dll
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\ref\Chapitre007.dll
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\Chapitre007.pdb
+C:\Users\angeb\source\repos\Chapitre007\obj\Debug\net6.0\Chapitre007.genruntimeconfig.cache

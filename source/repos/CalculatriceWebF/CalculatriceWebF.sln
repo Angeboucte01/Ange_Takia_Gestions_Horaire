@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatriceWebF", "CalculatriceWebF\CalculatriceWebF.csproj", "{1E2D7335-E482-4B41-81B1-68F98E4AD78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2D7335-E482-4B41-81B1-68F98E4AD78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2D7335-E482-4B41-81B1-68F98E4AD78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2D7335-E482-4B41-81B1-68F98E4AD78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2D7335-E482-4B41-81B1-68F98E4AD78A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A47B86FA-130F-4970-BCF2-49EA6138F3ED}
+	EndGlobalSection
+EndGlobal

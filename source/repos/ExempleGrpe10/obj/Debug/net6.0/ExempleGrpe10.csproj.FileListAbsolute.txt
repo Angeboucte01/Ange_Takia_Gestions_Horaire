@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\ExempleGrpe10\bin\Debug\net6.0\ExempleGrpe10.exe
+C:\Users\angeb\source\repos\ExempleGrpe10\bin\Debug\net6.0\ExempleGrpe10.deps.json
+C:\Users\angeb\source\repos\ExempleGrpe10\bin\Debug\net6.0\ExempleGrpe10.runtimeconfig.json
+C:\Users\angeb\source\repos\ExempleGrpe10\bin\Debug\net6.0\ExempleGrpe10.dll
+C:\Users\angeb\source\repos\ExempleGrpe10\bin\Debug\net6.0\ref\ExempleGrpe10.dll
+C:\Users\angeb\source\repos\ExempleGrpe10\bin\Debug\net6.0\ExempleGrpe10.pdb
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ExempleGrpe10.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ExempleGrpe10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ExempleGrpe10.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ExempleGrpe10.AssemblyInfo.cs
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ExempleGrpe10.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ExempleGrpe10.dll
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ref\ExempleGrpe10.dll
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ExempleGrpe10.pdb
+C:\Users\angeb\source\repos\ExempleGrpe10\obj\Debug\net6.0\ExempleGrpe10.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\Exo123548\bin\Debug\net6.0\Exo123548.exe
+C:\Users\angeb\source\repos\Exo123548\bin\Debug\net6.0\Exo123548.deps.json
+C:\Users\angeb\source\repos\Exo123548\bin\Debug\net6.0\Exo123548.runtimeconfig.json
+C:\Users\angeb\source\repos\Exo123548\bin\Debug\net6.0\Exo123548.dll
+C:\Users\angeb\source\repos\Exo123548\bin\Debug\net6.0\Exo123548.pdb
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\Exo123548.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\Exo123548.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\Exo123548.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\Exo123548.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\Exo123548.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\Exo123548.dll
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\refint\Exo123548.dll
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\Exo123548.pdb
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\Exo123548.genruntimeconfig.cache
+C:\Users\angeb\source\repos\Exo123548\obj\Debug\net6.0\ref\Exo123548.dll

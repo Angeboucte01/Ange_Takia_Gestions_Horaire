@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\Addition\bin\Debug\net6.0\Addition.exe
+C:\Users\angeb\source\repos\Addition\bin\Debug\net6.0\Addition.deps.json
+C:\Users\angeb\source\repos\Addition\bin\Debug\net6.0\Addition.runtimeconfig.json
+C:\Users\angeb\source\repos\Addition\bin\Debug\net6.0\Addition.dll
+C:\Users\angeb\source\repos\Addition\bin\Debug\net6.0\ref\Addition.dll
+C:\Users\angeb\source\repos\Addition\bin\Debug\net6.0\Addition.pdb
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\Addition.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\Addition.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\Addition.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\Addition.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\Addition.dll
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\ref\Addition.dll
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\Addition.pdb
+C:\Users\angeb\source\repos\Addition\obj\Debug\net6.0\Addition.genruntimeconfig.cache

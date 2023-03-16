@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\bin\Debug\net6.0\Exercice3SDA.exe
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\bin\Debug\net6.0\Exercice3SDA.deps.json
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\bin\Debug\net6.0\Exercice3SDA.runtimeconfig.json
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\bin\Debug\net6.0\Exercice3SDA.dll
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\bin\Debug\net6.0\Exercice3SDA.pdb
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\Exercice3SDA.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\Exercice3SDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\Exercice3SDA.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\Exercice3SDA.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\Exercice3SDA.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\Exercice3SDA.dll
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\refint\Exercice3SDA.dll
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\Exercice3SDA.pdb
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\Exercice3SDA.genruntimeconfig.cache
+C:\Users\angeb\source\repos\Exercice3SDA\Exercice3SDA\obj\Debug\net6.0\ref\Exercice3SDA.dll

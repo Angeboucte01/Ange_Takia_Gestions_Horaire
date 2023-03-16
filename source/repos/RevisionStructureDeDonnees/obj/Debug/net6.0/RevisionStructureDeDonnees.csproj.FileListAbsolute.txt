@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\bin\Debug\net6.0\RevisionStructureDeDonnees.exe
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\bin\Debug\net6.0\RevisionStructureDeDonnees.deps.json
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\bin\Debug\net6.0\RevisionStructureDeDonnees.runtimeconfig.json
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\bin\Debug\net6.0\RevisionStructureDeDonnees.dll
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\bin\Debug\net6.0\RevisionStructureDeDonnees.pdb
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\RevisionStructureDeDonnees.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\RevisionStructureDeDonnees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\RevisionStructureDeDonnees.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\RevisionStructureDeDonnees.AssemblyInfo.cs
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\RevisionStructureDeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\RevisionStructureDeDonnees.dll
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\refint\RevisionStructureDeDonnees.dll
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\RevisionStructureDeDonnees.pdb
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\RevisionStructureDeDonnees.genruntimeconfig.cache
+C:\Users\angeb\source\repos\RevisionStructureDeDonnees\obj\Debug\net6.0\ref\RevisionStructureDeDonnees.dll

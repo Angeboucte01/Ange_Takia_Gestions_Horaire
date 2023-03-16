@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\Evaluation_Sommative02.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\Evaluation_Sommative02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\Evaluation_Sommative02.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\Evaluation_Sommative02.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\Evaluation_Sommative02.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Evaluation_Sommative02\bin\Debug\net6.0\Evaluation_Sommative02.exe
+C:\Users\angeb\source\repos\Evaluation_Sommative02\bin\Debug\net6.0\Evaluation_Sommative02.deps.json
+C:\Users\angeb\source\repos\Evaluation_Sommative02\bin\Debug\net6.0\Evaluation_Sommative02.runtimeconfig.json
+C:\Users\angeb\source\repos\Evaluation_Sommative02\bin\Debug\net6.0\Evaluation_Sommative02.dll
+C:\Users\angeb\source\repos\Evaluation_Sommative02\bin\Debug\net6.0\ref\Evaluation_Sommative02.dll
+C:\Users\angeb\source\repos\Evaluation_Sommative02\bin\Debug\net6.0\Evaluation_Sommative02.pdb
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\Evaluation_Sommative02.dll
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\ref\Evaluation_Sommative02.dll
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\Evaluation_Sommative02.pdb
+C:\Users\angeb\source\repos\Evaluation_Sommative02\obj\Debug\net6.0\Evaluation_Sommative02.genruntimeconfig.cache

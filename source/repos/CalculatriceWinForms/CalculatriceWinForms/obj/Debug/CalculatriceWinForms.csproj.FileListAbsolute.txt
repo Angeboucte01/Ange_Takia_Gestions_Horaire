@@ -1,0 +1,11 @@
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\bin\Debug\CalculatriceWinForms.exe.config
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\bin\Debug\CalculatriceWinForms.exe
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\bin\Debug\CalculatriceWinForms.pdb
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\obj\Debug\CalculatriceWinForms.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\obj\Debug\CalculatriceWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\obj\Debug\CalculatriceWinForms.Form1.resources
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\obj\Debug\CalculatriceWinForms.Properties.Resources.resources
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\obj\Debug\CalculatriceWinForms.csproj.GenerateResource.cache
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\obj\Debug\CalculatriceWinForms.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\obj\Debug\CalculatriceWinForms.exe
+C:\Users\angeb\source\repos\CalculatriceWinForms\CalculatriceWinForms\obj\Debug\CalculatriceWinForms.pdb

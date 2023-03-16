@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ExampleG10.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ExampleG10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ExampleG10.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ExampleG10.AssemblyInfo.cs
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ExampleG10.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\ExampleG10\bin\Debug\net6.0\ExampleG10.exe
+C:\Users\angeb\source\repos\ExampleG10\bin\Debug\net6.0\ExampleG10.deps.json
+C:\Users\angeb\source\repos\ExampleG10\bin\Debug\net6.0\ExampleG10.runtimeconfig.json
+C:\Users\angeb\source\repos\ExampleG10\bin\Debug\net6.0\ExampleG10.dll
+C:\Users\angeb\source\repos\ExampleG10\bin\Debug\net6.0\ref\ExampleG10.dll
+C:\Users\angeb\source\repos\ExampleG10\bin\Debug\net6.0\ExampleG10.pdb
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ExampleG10.dll
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ref\ExampleG10.dll
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ExampleG10.pdb
+C:\Users\angeb\source\repos\ExampleG10\obj\Debug\net6.0\ExampleG10.genruntimeconfig.cache

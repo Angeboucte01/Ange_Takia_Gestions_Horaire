@@ -1,0 +1,14 @@
+C:\Users\angeb\source\repos\Boucle\obj\Debug\net6.0\Boucle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Boucle\obj\Debug\net6.0\Boucle.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Boucle\obj\Debug\net6.0\Boucle.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Boucle\obj\Debug\net6.0\Boucle.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Boucle\bin\Debug\net6.0\Boucle.exe
+C:\Users\angeb\source\repos\Boucle\bin\Debug\net6.0\Boucle.deps.json
+C:\Users\angeb\source\repos\Boucle\bin\Debug\net6.0\Boucle.runtimeconfig.json
+C:\Users\angeb\source\repos\Boucle\bin\Debug\net6.0\Boucle.dll
+C:\Users\angeb\source\repos\Boucle\bin\Debug\net6.0\ref\Boucle.dll
+C:\Users\angeb\source\repos\Boucle\bin\Debug\net6.0\Boucle.pdb
+C:\Users\angeb\source\repos\Boucle\obj\Debug\net6.0\Boucle.dll
+C:\Users\angeb\source\repos\Boucle\obj\Debug\net6.0\ref\Boucle.dll
+C:\Users\angeb\source\repos\Boucle\obj\Debug\net6.0\Boucle.pdb
+C:\Users\angeb\source\repos\Boucle\obj\Debug\net6.0\Boucle.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\bin\Debug\net6.0\Dictionnaire_2._1.exe
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\bin\Debug\net6.0\Dictionnaire_2._1.deps.json
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\bin\Debug\net6.0\Dictionnaire_2._1.runtimeconfig.json
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\bin\Debug\net6.0\Dictionnaire_2._1.dll
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\bin\Debug\net6.0\Dictionnaire_2._1.pdb
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\Dictionnaire_2._1.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\Dictionnaire_2._1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\Dictionnaire_2._1.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\Dictionnaire_2._1.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\Dictionnaire_2._1.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\Dictionnaire_2._1.dll
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\refint\Dictionnaire_2._1.dll
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\Dictionnaire_2._1.pdb
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\Dictionnaire_2._1.genruntimeconfig.cache
+C:\Users\angeb\source\repos\Dictionnaire_2._1\Dictionnaire_2._1\obj\Debug\net6.0\ref\Dictionnaire_2._1.dll

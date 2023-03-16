@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\EvaluationSommative03\bin\Debug\net6.0\EvaluationSommative03.exe
+C:\Users\angeb\source\repos\EvaluationSommative03\bin\Debug\net6.0\EvaluationSommative03.deps.json
+C:\Users\angeb\source\repos\EvaluationSommative03\bin\Debug\net6.0\EvaluationSommative03.runtimeconfig.json
+C:\Users\angeb\source\repos\EvaluationSommative03\bin\Debug\net6.0\EvaluationSommative03.dll
+C:\Users\angeb\source\repos\EvaluationSommative03\bin\Debug\net6.0\EvaluationSommative03.pdb
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\EvaluationSommative03.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\EvaluationSommative03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\EvaluationSommative03.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\EvaluationSommative03.AssemblyInfo.cs
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\EvaluationSommative03.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\EvaluationSommative03.dll
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\refint\EvaluationSommative03.dll
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\EvaluationSommative03.pdb
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\EvaluationSommative03.genruntimeconfig.cache
+C:\Users\angeb\source\repos\EvaluationSommative03\obj\Debug\net6.0\ref\EvaluationSommative03.dll

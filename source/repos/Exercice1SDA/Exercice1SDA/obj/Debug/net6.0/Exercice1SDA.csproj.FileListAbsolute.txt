@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\bin\Debug\net6.0\Exercice1SDA.exe
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\bin\Debug\net6.0\Exercice1SDA.deps.json
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\bin\Debug\net6.0\Exercice1SDA.runtimeconfig.json
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\bin\Debug\net6.0\Exercice1SDA.dll
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\bin\Debug\net6.0\Exercice1SDA.pdb
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\Exercice1SDA.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\Exercice1SDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\Exercice1SDA.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\Exercice1SDA.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\Exercice1SDA.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\Exercice1SDA.dll
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\refint\Exercice1SDA.dll
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\Exercice1SDA.pdb
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\Exercice1SDA.genruntimeconfig.cache
+C:\Users\angeb\source\repos\Exercice1SDA\Exercice1SDA\obj\Debug\net6.0\ref\Exercice1SDA.dll

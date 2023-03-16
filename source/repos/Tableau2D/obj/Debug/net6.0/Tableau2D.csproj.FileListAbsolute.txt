@@ -1,0 +1,15 @@
+C:\Users\angeb\source\repos\Tableau2D\bin\Debug\net6.0\Tableau2D.exe
+C:\Users\angeb\source\repos\Tableau2D\bin\Debug\net6.0\Tableau2D.deps.json
+C:\Users\angeb\source\repos\Tableau2D\bin\Debug\net6.0\Tableau2D.runtimeconfig.json
+C:\Users\angeb\source\repos\Tableau2D\bin\Debug\net6.0\Tableau2D.dll
+C:\Users\angeb\source\repos\Tableau2D\bin\Debug\net6.0\Tableau2D.pdb
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\Tableau2D.csproj.AssemblyReference.cache
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\Tableau2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\Tableau2D.AssemblyInfoInputs.cache
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\Tableau2D.AssemblyInfo.cs
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\Tableau2D.csproj.CoreCompileInputs.cache
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\Tableau2D.dll
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\refint\Tableau2D.dll
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\Tableau2D.pdb
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\Tableau2D.genruntimeconfig.cache
+C:\Users\angeb\source\repos\Tableau2D\obj\Debug\net6.0\ref\Tableau2D.dll
